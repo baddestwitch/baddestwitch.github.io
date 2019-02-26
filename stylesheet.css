@@ -1,0 +1,210 @@
+body {
+	background-color: #b599ff;
+	margin: 0;
+}
+header {
+	background-color: #e7e6f7;
+}
+#title {
+	font-family: caroni;
+	font-size: 50px;
+	color: #160e38;
+	text-align: center;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+nav ul {
+  list-style-type: none;
+  list-style-type: none;
+  overflow: hidden;
+  background-color: #b599ff;
+  margin: 0;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 220px;
+}
+nav li {
+  display: inline;
+}
+nav li a {
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	font-family: caroni;
+	font-size: 40px;
+	color: #160e38;
+}
+nav li a:hover {
+  background-color: #e7e6f7;
+}
+main {
+	padding-right: 20px;
+	padding-left: 20px;
+}
+#main-top {
+	height: 560px;
+}
+#main-top-right {
+	float: right;
+}
+#main-top-left {
+	float: left;
+	margin-top: 100px;
+	margin-left: 70px;
+}
+#main-top-left h1 {
+	text-align: center;
+	font-family: caroni;
+	font-size: 40px;
+}
+#main-top-left h2 {
+	text-align: center;
+	font-family: caroni;
+	font-size: 30px;
+}
+#cmap-top-right {
+	float: right;
+}
+#cmap-top-left {
+	float: left;
+	padding-top: 90px;
+	padding-left: 40px;
+}
+#cmap-top-left h2 {
+	font-family: caroni;
+	text-align: center;
+}
+#cmap-mid-left {
+	float: left;
+	padding-top: 150px;
+}
+#cmap-mid-right {
+	float: right;
+	padding-top: 70px;
+	padding-right: 40px;
+}
+#cmap-mid-right h2 {
+	font-family: caroni;
+	text-align: center;
+}
+#cheer-top-left {
+	float: left;
+	padding-top: 90px;
+	padding-left: 70px;
+}
+#cheer-top-right {
+	float: right;
+	padding-top: 30px;
+}
+#cheer-top-left h2 {
+	font-family: caroni;
+	text-align: center;
+}
+#cheer-mid-left {
+	float: left;
+	padding-top: 120px;
+}
+#cheer-mid-right {
+	float: right;
+	padding-top: 90px;
+	padding-right: 50px;
+}
+#cheer-mid-right h2 {
+	font-family: caroni;
+	text-align: center;
+}
+#cheer-bottom-left {
+	float: left;
+	padding-top: 100px;
+	padding-right: 200px;
+}
+#cheer-bottom-right {
+	float: right;
+}
+#cheer-bottom-left h2 {
+	font-family: caroni;
+	text-align: center;
+}
+#container {
+	background-color: #e7e6f7;
+	width: 1000px;
+	height: 600px;
+	margin: auto;
+}
+#container-cmap {
+	height: 1000px;
+	background-color: #e7e6f7;
+	width: 1000px;
+	margin: auto;
+}
+#container-cheer {
+	height: 1300px;
+	background-color: #e7e6f7;
+	width: 1000px;
+	margin: auto;
+}
+.homepic {
+	width: 350px;
+	height: 350px;
+	margin-top: 20px;
+	margin-right: 10px;
+}
+.cmap1 {
+	width: 400px;
+	height: 380px;
+	padding-left: 150px;
+	margin-top: 20px;
+}
+.cmap2 {
+	width: 400px;
+	height: 300px;
+}
+.cheer1 {
+	width: 450px;
+	height: 300px;
+}
+.cheer2 {
+	width: 450px;
+	height: 350px;
+}
+footer {
+	text-align: left;
+	font-weight: bold;
+	font-family: caroni;
+	font-size: 25px;
+	background-color: #b599ff;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+@font-face {
+	font-family: "amatic";
+	src: url(fonts/Amatic-Bold.ttf);
+	font-style: normal; 
+}
+@font-face {
+	font-family: "caroni";
+	src: url(fonts/Caroni-Regular.otf);
+	font-style: normal; 
+}
