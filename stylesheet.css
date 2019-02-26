@@ -116,10 +116,12 @@ main {
 #cheer-bottom-left {
 	float: left;
 	padding-top: 100px;
-	padding-right: 200px;
+	padding-right: 120px;
+	padding-left: 20px;
 }
 #cheer-bottom-right {
 	float: right;
+	padding-top: 30px;
 }
 #cheer-bottom-left h2 {
 	font-family: caroni;
@@ -138,7 +140,7 @@ main {
 	margin: auto;
 }
 #container-cheer {
-	height: 1300px;
+	height: 1270px;
 	background-color: #e7e6f7;
 	width: 1000px;
 	margin: auto;
