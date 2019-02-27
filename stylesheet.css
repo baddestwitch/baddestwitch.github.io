@@ -205,13 +205,16 @@ main {
 	height: 600px;
 }
 footer {
-	text-align: left;
+	text-align: center;
 	font-weight: bold;
 	font-family: caroni;
 	font-size: 25px;
 	background-color: #b599ff;
 	padding-top: 1px;
 	padding-bottom: 1px;
+}
+footer a {
+	position: center;
 }
 .fa {
   padding: 20px;
